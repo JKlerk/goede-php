@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+}
+
+h1{
+	color: white;
+	text-shadow: 1px 1px black;
+	font-family: lobster;
+	font-size: 80px;
+	margin: 320px 0px 40px 0px;
+	padding: 0px;
+}
+
+.time{
+	color: white;
+	font-size: 85px;
+	font-family: lobster;
+	text-shadow: 1px 1px black;
+}
